@@ -1,0 +1,5 @@
+{
+  "name": "Simulador Hidráulico Pegasus VRP",
+  "description": "Una simulación interactiva de gemelo digital del controlador de presión HWM Pegasus para redes de distribución de agua, demostrando la modulación de presión basada en la demanda.",
+  "requestFramePermissions": []
+}
